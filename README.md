@@ -1,10 +1,10 @@
 ## Final Assignment 
 
-# client side ->
+# Client side ->
 # 1. Add new Category dropdown button
 # 2. Post new data
 - Client_End\src\components\add_entry_components\Form.jsx
-# client side ->
+# Client side ->
 # 1. delete data
 # 2. add date 
 # 3. edit data
