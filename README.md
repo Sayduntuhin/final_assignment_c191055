@@ -9,6 +9,6 @@
 # 2. add date 
 # 3. edit data
 - Client_End\src\components\list_income_expanse\UnorederList.jsx
-# server side -> 
+# Server side -> 
 # All operations (post,get,get/id,patch,delete)
 - server\routes\entries.js
